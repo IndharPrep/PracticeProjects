@@ -24,4 +24,4 @@ Constraints:
 
 <hr>
 
-[Submission Link](https://github.com/IndharPrep/PracticeProjects/blob/web-dev/web-dev%20/Submit.md)
+[Project Task Submission Link](https://github.com/IndharPrep/PracticeProjects/blob/web-dev/web-dev%20/Submit.md)
