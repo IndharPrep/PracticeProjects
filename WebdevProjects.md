@@ -21,3 +21,7 @@ Constraints:
 2. User email and mobile should be unique in DB(Database)
 3. add user_id column in DB and it should be primary key of that table
 4. After Sucessfull validation, redirect to home page
+
+<hr>
+
+[Submission Link](https://github.com/IndharPrep/PracticeProjects/blob/web-dev/web-dev%20/Submit.md)
