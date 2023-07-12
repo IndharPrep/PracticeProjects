@@ -20,9 +20,28 @@ Constraints:
 1. If user email or password is not valid, show an incorrect entry popup
 2. User email and mobile should be unique in DB(Database)
 3. add user_id column in DB and it should be primary key of that table
-4. After Sucessfull validation, redirect to home page
+4. After Successful validation, redirect to home page
 
-Note: If any query rise an issue
+## [Week 3](#week3)
+
+Create Landing page
+
+Constraints:
+
+1. Create a responsive Landing page(Responsive means landing page should support pc and mobile view)
+2. Use Bootstrap
+3. Navbar should move towards scrolling
+4. add header and footer
+
+## [Week 4](#week4)
+
+Clone a site
+
+Constraints:
+
+Use this resource and clone this site - [https://codewithsadee.github.io/foodie/](https://codewithsadee.github.io/foodhub-restaurant-website/)
+
+Note: If any query raise an issue
 <hr>
 
 [Project Task Submission Link](https://github.com/IndharPrep/PracticeProjects/blob/web-dev/web-dev%20/Submit.md)
