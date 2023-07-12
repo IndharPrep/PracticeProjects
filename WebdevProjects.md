@@ -1,6 +1,6 @@
 # Web Development Projects From scratch
 
-## [Week 1](#week1)
+## [Week 1](https://github.com/IndharPrep/PracticeProjects/blob/web-dev/WebdevProjects.md#week1)
 
 Create Login and Registration Page using HTML, CSS, JS
 
@@ -11,7 +11,7 @@ Constraints:
 3. Register page should be linked to login page and login page also...
 4. Try to do responsive
 
-## [Week 2](#week2)
+## [Week 2](https://github.com/IndharPrep/PracticeProjects/blob/web-dev/WebdevProjects.md#week2)
 
 Add Validation in the week 1 project using MySQL and Python(Flask) for back end
 
@@ -22,7 +22,7 @@ Constraints:
 3. add user_id column in DB and it should be primary key of that table
 4. After Successful validation, redirect to home page
 
-## [Week 3](#week3)
+## [Week 3](https://github.com/IndharPrep/PracticeProjects/blob/web-dev/WebdevProjects.md#week3)
 
 Create Landing page
 
@@ -33,7 +33,7 @@ Constraints:
 3. Navbar should move towards scrolling
 4. add header and footer
 
-## [Week 4](#week4)
+## [Week 4](https://github.com/IndharPrep/PracticeProjects/blob/web-dev/WebdevProjects.md#week4)
 
 Clone a site
 
